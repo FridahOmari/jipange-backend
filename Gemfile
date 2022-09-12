@@ -40,3 +40,5 @@ group :development do
   # https://github.com/alexch/rerun
   gem "rerun"
 end
+
+gem "pg"
